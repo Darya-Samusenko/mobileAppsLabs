@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">First App</string>
+    <string name="name">"Имя: "</string>
+    <string name="email">"Почта: "</string>
+    <string name="birth_date">"Дата рождения: "</string>
+    <string name="gender">"Пол: "</string>
+    <string name="occupation">"Род деятельности: "</string>
+    <string name="city">Город: </string>
+    <string name="country">"Страна: "</string>
+    <string name="phonenumber">"Норме телефона: "</string>
+    <string name="age">"Возраст: "</string>
+    <string name="martial_status">"Семейное положение: "</string>
+    <string name="back">Назад</string>
+    <string name="logout">Выход</string>
+    <string name="profile">Профиль</string>
+    <string name="save">Сохранить</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">First App</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="birth_date">Birth date:</string>
+    <string name="gender">Gender:</string>
+    <string name="occupation">Occupation:</string>
+    <string name="city">City:</string>
+    <string name="country">Country:</string>
+    <string name="phonenumber">Phone number:</string>
+    <string name="age">Age:</string>
+    <string name="martial_status">Martial Status:</string>
+    <string name="back">Back</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="save">Save</string>
+</resources>
